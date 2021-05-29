@@ -1,0 +1,2657 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.928; Version 2004; 64bit' Language: 'ru' Physical Memory: 7549 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/info/Desktop/Голдбоссовские посиделки/PlatformerRUS-main/Platformer
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56847
+Successfully changed project path to: C:/Users/info/Desktop/Голдбоссовские посиделки/PlatformerRUS-main/Platformer
+C:/Users/info/Desktop/Голдбоссовские посиделки/PlatformerRUS-main/Platformer
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 41.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/info/Desktop/Голдбоссовские посиделки/PlatformerRUS-main/Platformer/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f99)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   27.21.14.5256
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56284
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003492 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 38.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.332 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001599 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 43.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.979 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1820 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.0 MB.
+System memory in use after: 86.1 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2268.
+Total: 2.415900 ms (FindLiveObjects: 0.296700 ms CreateObjectMapping: 0.089600 ms MarkObjects: 1.960600 ms  DeleteObjects: 0.067300 ms)
+
+========================================================================
+Received Import Request.
+  path: Packages/com.unity.2d.pixel-perfect/package.json
+  artifactKey: Guid(b1c570008ebc15d4183516ca5722a39e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.pixel-perfect/package.json using Guid(b1c570008ebc15d4183516ca5722a39e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a3827af76e8b73fb47cd214b92cca7') in 0.070172 seconds
+  Import took 0.076465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000668 seconds.
+  path: Packages/com.unity.2d.common/package.json
+  artifactKey: Guid(68f1917ec3cac45b080c26153375c2bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.common/package.json using Guid(68f1917ec3cac45b080c26153375c2bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7034d33d8a6ab136d62ac8c79f618b77') in 0.005831 seconds
+  Import took 0.009406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Packages/com.unity.2d.path/package.json
+  artifactKey: Guid(990785fe75c54584ab4201a3e20e1655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.path/package.json using Guid(990785fe75c54584ab4201a3e20e1655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b63f310ce75b7d17c92b8d4dbe972eaa') in 0.006341 seconds
+  Import took 0.010821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000589 seconds.
+  path: Packages/com.unity.2d.psdimporter/package.json
+  artifactKey: Guid(2f948ecb81c850949a2725b1ba265844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.psdimporter/package.json using Guid(2f948ecb81c850949a2725b1ba265844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c0a50ef05e27628d8f5eab6bee28e5d') in 0.006174 seconds
+  Import took 0.010546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000587 seconds.
+  path: Packages/com.unity.2d.animation/package.json
+  artifactKey: Guid(9e83c20a8293f44ec8a375d3805f477d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/package.json using Guid(9e83c20a8293f44ec8a375d3805f477d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74161d0be0c724a093f7b935dca89245') in 0.006981 seconds
+  Import took 0.011831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000500 seconds.
+  path: Packages/com.unity.2d.sprite/package.json
+  artifactKey: Guid(7dc5f1e5d04ac8549ac21802071e983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/package.json using Guid(7dc5f1e5d04ac8549ac21802071e983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27ee72f0dc183ed75d56aac97bddca5b') in 0.005789 seconds
+  Import took 0.009692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Packages/com.unity.2d.spriteshape/package.json
+  artifactKey: Guid(4eabc3d1ad1424372b03cfc117521e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.spriteshape/package.json using Guid(4eabc3d1ad1424372b03cfc117521e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f922e9a253d703b3311e2770e04e373d') in 0.004716 seconds
+  Import took 0.010348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.616965 seconds.
+  path: Assets/Stuffs/Backgrounds
+  artifactKey: Guid(d802fb7fc0520244d8f2cac7573ee565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Backgrounds using Guid(d802fb7fc0520244d8f2cac7573ee565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e801a0f6a0fc4f94ca2ae6a31a042889') in 0.006666 seconds
+  Import took 0.011176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.091345 seconds.
+  path: Assets/Stuffs/Backgrounds/Fence Background
+  artifactKey: Guid(e45b9bacf647d5b4ea8c0a4402400b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Backgrounds/Fence Background using Guid(e45b9bacf647d5b4ea8c0a4402400b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38818cbd1f458d0bdad06fd76cac40fe') in 0.005094 seconds
+  Import took 0.009402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000989 seconds.
+  path: Assets/Stuffs/Backgrounds/Fence Background
+  artifactKey: Guid(e45b9bacf647d5b4ea8c0a4402400b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Backgrounds/Fence Background using Guid(e45b9bacf647d5b4ea8c0a4402400b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38818cbd1f458d0bdad06fd76cac40fe') in 0.004659 seconds
+  Import took 0.008598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.321673 seconds.
+  path: Assets/Stuffs/Backgrounds/Fence Background/Background.png
+  artifactKey: Guid(7356cbd98ce3e3a4cb6670030fa15e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Backgrounds/Fence Background/Background.png using Guid(7356cbd98ce3e3a4cb6670030fa15e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b6cf3a16652da0ca795f5589e20d605') in 0.093247 seconds
+  Import took 0.096547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Stuffs/Backgrounds/Fence Background/Layer1.png
+  artifactKey: Guid(c2fc37f61cccb3e408f0e3bfc6f4a15d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Backgrounds/Fence Background/Layer1.png using Guid(c2fc37f61cccb3e408f0e3bfc6f4a15d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c21176c34968cc75424d3cb64c1710c') in 0.020082 seconds
+  Import took 0.023848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000601 seconds.
+  path: Assets/Stuffs/Backgrounds/Fence Background/Layer2.png
+  artifactKey: Guid(c6395c49813880c46ab220a5f448b9ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Backgrounds/Fence Background/Layer2.png using Guid(c6395c49813880c46ab220a5f448b9ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4612438d88dfe05b1dc04088b10ebd8') in 0.027341 seconds
+  Import took 0.031563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Stuffs/Backgrounds/Fence Background/Layer4.png
+  artifactKey: Guid(f9994c08f506d874799041794f959334) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Backgrounds/Fence Background/Layer4.png using Guid(f9994c08f506d874799041794f959334) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ac5dc24541f82b73400a48125fa5276') in 0.021751 seconds
+  Import took 0.026702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Stuffs/Backgrounds/Fence Background/Layer3.png
+  artifactKey: Guid(fb95da9798de6ec459f8b7dbefe9a848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Backgrounds/Fence Background/Layer3.png using Guid(fb95da9798de6ec459f8b7dbefe9a848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab4d6658751ea925d12cb83b93575f95') in 0.029096 seconds
+  Import took 0.032760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Stuffs/Backgrounds/Fence Background/Layer5.png
+  artifactKey: Guid(7f555c19bcc5bea4aa6f0bf91f3b28aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Backgrounds/Fence Background/Layer5.png using Guid(7f555c19bcc5bea4aa6f0bf91f3b28aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d03191bb32c5631366a10bd92b9e755') in 0.023625 seconds
+  Import took 0.027984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Stuffs/Backgrounds/Fence Background/Layer3.png
+  artifactKey: Guid(fb95da9798de6ec459f8b7dbefe9a848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Backgrounds/Fence Background/Layer3.png using Guid(fb95da9798de6ec459f8b7dbefe9a848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab4d6658751ea925d12cb83b93575f95') in 0.014789 seconds
+  Import took 0.018278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Stuffs/Backgrounds/Fence Background/Layer5.png
+  artifactKey: Guid(7f555c19bcc5bea4aa6f0bf91f3b28aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Backgrounds/Fence Background/Layer5.png using Guid(7f555c19bcc5bea4aa6f0bf91f3b28aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d03191bb32c5631366a10bd92b9e755') in 0.017412 seconds
+  Import took 0.020721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Stuffs/Backgrounds/Fence Background/Tile.png
+  artifactKey: Guid(8ce2ee2e1f4d95b45b8507426c61d6de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Backgrounds/Fence Background/Tile.png using Guid(8ce2ee2e1f4d95b45b8507426c61d6de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2922ca94cc8df3bc28531d434491117') in 0.019067 seconds
+  Import took 0.022877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Stuffs/Backgrounds/Fence Background/Layer6.png
+  artifactKey: Guid(83ea90c8b2f122f429bb079fe129abdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Backgrounds/Fence Background/Layer6.png using Guid(83ea90c8b2f122f429bb079fe129abdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '916fb640d36676e42729f42e63c1b114') in 0.021576 seconds
+  Import took 0.026229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.760736 seconds.
+  path: Assets/Stuffs/Backgrounds/Cozy Background/Background.png
+  artifactKey: Guid(6fa10a83692aa804195f1ad0ba465efc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Backgrounds/Cozy Background/Background.png using Guid(6fa10a83692aa804195f1ad0ba465efc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '368b5f76d8b3dbfb685d87ba36fc20b9') in 0.016351 seconds
+  Import took 0.020245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Stuffs/Backgrounds/Cozy Background/Layer3.png
+  artifactKey: Guid(3f55c431255454847b217d4ad3f96157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Backgrounds/Cozy Background/Layer3.png using Guid(3f55c431255454847b217d4ad3f96157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '454e39b420eb49552d36c3f62d37db69') in 0.018512 seconds
+  Import took 0.021791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/Stuffs/Backgrounds/Cozy Background/Layer5.png
+  artifactKey: Guid(b68e67a98c577e347b04a0d49baaf1a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Backgrounds/Cozy Background/Layer5.png using Guid(b68e67a98c577e347b04a0d49baaf1a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f559172882560d376e92d9cceeb227ee') in 0.022593 seconds
+  Import took 0.027137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/Stuffs/Backgrounds/Cozy Background/Layer4.png
+  artifactKey: Guid(29913701c951179428c2fdcb2bf38924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Backgrounds/Cozy Background/Layer4.png using Guid(29913701c951179428c2fdcb2bf38924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0033fceebc84f834a1c5d65819bdf811') in 0.029785 seconds
+  Import took 0.034066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000842 seconds.
+  path: Assets/Stuffs/Backgrounds/Cozy Background/Tile.png
+  artifactKey: Guid(bf4b8c16802aeac4c84080d10b61e08c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Backgrounds/Cozy Background/Tile.png using Guid(bf4b8c16802aeac4c84080d10b61e08c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb9a51e735f5a7f7c8741e5e8bb90b30') in 0.021629 seconds
+  Import took 0.026578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Stuffs/Backgrounds/Cozy Background/Layer1.png
+  artifactKey: Guid(ae9f97a6e97c6da48b2de5789edf3a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Backgrounds/Cozy Background/Layer1.png using Guid(ae9f97a6e97c6da48b2de5789edf3a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1576772b7bdacf31aee7b9119111179f') in 0.030489 seconds
+  Import took 0.036827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000536 seconds.
+  path: Assets/Stuffs/Backgrounds/Cozy Background/Layer2.png
+  artifactKey: Guid(59d3c2acca134e7419f3cf62bc3fc858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Backgrounds/Cozy Background/Layer2.png using Guid(59d3c2acca134e7419f3cf62bc3fc858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '011dc08b12b1ae1532f032ebee727737') in 0.026932 seconds
+  Import took 0.030584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Stuffs/Backgrounds/Cozy Background/Layer1.png
+  artifactKey: Guid(ae9f97a6e97c6da48b2de5789edf3a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Backgrounds/Cozy Background/Layer1.png using Guid(ae9f97a6e97c6da48b2de5789edf3a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1576772b7bdacf31aee7b9119111179f') in 0.018083 seconds
+  Import took 0.021983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Assets/Stuffs/Backgrounds/Cozy Background/Layer2.png
+  artifactKey: Guid(59d3c2acca134e7419f3cf62bc3fc858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Backgrounds/Cozy Background/Layer2.png using Guid(59d3c2acca134e7419f3cf62bc3fc858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '011dc08b12b1ae1532f032ebee727737') in 0.021084 seconds
+  Import took 0.025251 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001702 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.927 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.7 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2283.
+Total: 2.376700 ms (FindLiveObjects: 0.337200 ms CreateObjectMapping: 0.115700 ms MarkObjects: 1.895900 ms  DeleteObjects: 0.025500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003007 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.841 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.7 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2287.
+Total: 2.424000 ms (FindLiveObjects: 0.398900 ms CreateObjectMapping: 0.102700 ms MarkObjects: 1.896300 ms  DeleteObjects: 0.024100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001823 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.933 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2292.
+Total: 3.627500 ms (FindLiveObjects: 0.571600 ms CreateObjectMapping: 0.060500 ms MarkObjects: 2.962000 ms  DeleteObjects: 0.031500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001832 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.842 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2296.
+Total: 2.991700 ms (FindLiveObjects: 0.554600 ms CreateObjectMapping: 0.126700 ms MarkObjects: 2.285100 ms  DeleteObjects: 0.024000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002202 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.962 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2300.
+Total: 1.979700 ms (FindLiveObjects: 0.213300 ms CreateObjectMapping: 0.046800 ms MarkObjects: 1.701600 ms  DeleteObjects: 0.016600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001637 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.900 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2304.
+Total: 2.193200 ms (FindLiveObjects: 0.310300 ms CreateObjectMapping: 0.089800 ms MarkObjects: 1.766900 ms  DeleteObjects: 0.024400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2798.381470 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09c751dc019065508236134abab9f811') in 0.028351 seconds
+  Import took 0.034048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 578.583709 seconds.
+  path: Assets/Stuffs/Items/Shining/Power Ups/frame-1.png
+  artifactKey: Guid(a290c4305ee860c43be6e41fcb72265c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Items/Shining/Power Ups/frame-1.png using Guid(a290c4305ee860c43be6e41fcb72265c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5da300f70ac8ff21a54e435146b94705') in 0.074477 seconds
+  Import took 0.079378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.648711 seconds.
+  path: Assets/Stuffs/Items/Shining/Power Ups/frame-2.png
+  artifactKey: Guid(c239b0822f8c83f4e96ec6a1c458c98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Items/Shining/Power Ups/frame-2.png using Guid(c239b0822f8c83f4e96ec6a1c458c98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27c1afad1cc2c3ec90c1c57e14c6b464') in 0.030319 seconds
+  Import took 0.039036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.952025 seconds.
+  path: Assets/Stuffs/Items/Shining/Power Ups/frame-3.png
+  artifactKey: Guid(2c3f9ee59bb4e4e4b8fda9bebe6fbee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Items/Shining/Power Ups/frame-3.png using Guid(2c3f9ee59bb4e4e4b8fda9bebe6fbee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4722ce1c79b96349a1f018677f06672a') in 0.019214 seconds
+  Import took 0.022970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.233673 seconds.
+  path: Assets/Stuffs/Items/Shining/Power Ups/frame-4.png
+  artifactKey: Guid(939fa914f13ca79499d52d60e3189321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Items/Shining/Power Ups/frame-4.png using Guid(939fa914f13ca79499d52d60e3189321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61e6a2fde977a4bacbbdadcf05032129') in 0.022722 seconds
+  Import took 0.026753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.905621 seconds.
+  path: Assets/Stuffs/Items/Shining/Power Ups/frame-5.png
+  artifactKey: Guid(d15246b131478e441a86133e37c4249f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Items/Shining/Power Ups/frame-5.png using Guid(d15246b131478e441a86133e37c4249f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f367669e29bc229f15cf86c5ffa4de9f') in 0.023344 seconds
+  Import took 0.027285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.823221 seconds.
+  path: Assets/Stuffs/Items/Shining/Power Ups/frame-6.png
+  artifactKey: Guid(7aa1ea25cb5f7a04ab26d7ada2d6a54f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Items/Shining/Power Ups/frame-6.png using Guid(7aa1ea25cb5f7a04ab26d7ada2d6a54f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08b5e0e35fdd7472173f338a04abccd9') in 0.018303 seconds
+  Import took 0.021467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.365221 seconds.
+  path: Assets/Stuffs/Items/Shining/Power Ups/frame-7.png
+  artifactKey: Guid(aca5212657389b6419b5b7f66676d3f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Items/Shining/Power Ups/frame-7.png using Guid(aca5212657389b6419b5b7f66676d3f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef0e5f25fa6a9d2a527176f23d87c460') in 0.016544 seconds
+  Import took 0.021182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.004099 seconds.
+  path: Assets/Stuffs/Items/Shining/Power Ups/frame-8.png
+  artifactKey: Guid(941093f986172f84bac91009a11f6f52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Items/Shining/Power Ups/frame-8.png using Guid(941093f986172f84bac91009a11f6f52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a9c6e9ff1e2412bf6f86ae4cfb30609') in 0.017345 seconds
+  Import took 0.021090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.825555 seconds.
+  path: Assets/Stuffs/Items/Shining/Power Ups/frame-9.png
+  artifactKey: Guid(5e4ce75f6928f4b4994ac3b5e37a49ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Items/Shining/Power Ups/frame-9.png using Guid(5e4ce75f6928f4b4994ac3b5e37a49ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85377864fd6a058b4e2a624cff678ac1') in 0.016183 seconds
+  Import took 0.019536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.845183 seconds.
+  path: Assets/Stuffs/Items/Shining/Power Ups/frame-10.png
+  artifactKey: Guid(6450b8a0b7726314bbbf2727bfa20ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stuffs/Items/Shining/Power Ups/frame-10.png using Guid(6450b8a0b7726314bbbf2727bfa20ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '543478d8c28613721296e7b6dcae3717') in 0.026011 seconds
+  Import took 0.030146 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002266 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.168 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2309.
+Total: 2.609200 ms (FindLiveObjects: 0.454400 ms CreateObjectMapping: 0.047800 ms MarkObjects: 2.083500 ms  DeleteObjects: 0.021700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003265 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.132 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2313.
+Total: 3.969700 ms (FindLiveObjects: 0.865600 ms CreateObjectMapping: 0.271000 ms MarkObjects: 2.802300 ms  DeleteObjects: 0.027600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001613 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.903 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2318.
+Total: 2.454100 ms (FindLiveObjects: 0.338100 ms CreateObjectMapping: 0.089000 ms MarkObjects: 2.006200 ms  DeleteObjects: 0.019100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001522 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.925 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2322.
+Total: 3.106600 ms (FindLiveObjects: 0.262600 ms CreateObjectMapping: 0.046200 ms MarkObjects: 2.777600 ms  DeleteObjects: 0.018400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 826.660697 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e9cb3c3f10d21b19b315c2e31c246ef') in 0.012170 seconds
+  Import took 0.015858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018726 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e9cb3c3f10d21b19b315c2e31c246ef') in 0.003151 seconds
+  Import took 0.006865 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001650 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.891 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2326.
+Total: 2.063700 ms (FindLiveObjects: 0.323500 ms CreateObjectMapping: 0.049700 ms MarkObjects: 1.660000 ms  DeleteObjects: 0.028900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.041942 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001296 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.0002639Z'
+  Import took 0.004263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019130 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000593 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.0002639Z'
+  Import took 0.004121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022100 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000440 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022691 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000477 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018086 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000428 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020512 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000500 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018221 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000462 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017469 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000442 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021186 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000568 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017274 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000511 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022321 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000443 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021498 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000513 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022440 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000508 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019671 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000447 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021661 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000989 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.006868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019014 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000484 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021549 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000440 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022127 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000396 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018112 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000410 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023505 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000408 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018252 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000573 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022281 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000903 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.005530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020976 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000426 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022467 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000404 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027108 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000471 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017780 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000442 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022444 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000722 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.006228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023934 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000482 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018564 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000471 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021363 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000836 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.005583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026374 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000760 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.005102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024550 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000486 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025306 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000756 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017309 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000455 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019155 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001157 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.006695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022022 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000507 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029273 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000603 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025497 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000489 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020274 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000434 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025210 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000459 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018274 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000495 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022139 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000541 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018913 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000440 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024019 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000494 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027509 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000383 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025730 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000606 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024907 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000503 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019946 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000566 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021656 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000545 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019871 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000584 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019771 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000489 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025713 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000611 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022108 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000648 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024557 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000575 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.005004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019242 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000424 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018410 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000517 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021182 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000428 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021745 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000468 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039406 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000510 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030263 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000576 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.005723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027260 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001151 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.017117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017234 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000400 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017919 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000934 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.005011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018812 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000506 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032688 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000806 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.046154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046026 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000946 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.006031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028231 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000651 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.005082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026792 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000445 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024148 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000576 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020562 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000510 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020600 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000593 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017700 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000401 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018962 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000562 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028764 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000484 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021248 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000448 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027375 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000587 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019550 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000387 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027331 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000405 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026320 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000433 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023665 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000549 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019644 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000433 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018616 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000478 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021478 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000388 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019926 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000544 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023020 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000466 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022531 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000684 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.005022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026451 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000872 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.005881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026650 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000881 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.005744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023601 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000531 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029606 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000588 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021461 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000454 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021209 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000501 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018563 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000409 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017715 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000405 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023549 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000391 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020168 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000888 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.005215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028109 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000594 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025151 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000590 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019851 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000533 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025868 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000602 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025031 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000935 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.005698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027119 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000430 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021936 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000500 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018948 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000469 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021639 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000427 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019641 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000569 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018105 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000445 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021639 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000393 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020880 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000390 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023595 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000554 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020898 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000494 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019085 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000450 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028997 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000531 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025452 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000547 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019390 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000425 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021795 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000650 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024405 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000481 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018808 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000480 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022008 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000586 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017423 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000745 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021364 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000386 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018055 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000454 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022059 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000455 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017305 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000426 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019984 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000394 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022235 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000397 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019503 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000485 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020650 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000418 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019397 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000482 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021507 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000421 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018487 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000415 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018508 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000490 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020597 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000753 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.005405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016023 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000433 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020829 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000481 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018097 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000449 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020464 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000533 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018473 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000407 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019447 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000700 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024508 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000445 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019822 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000625 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.005102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023734 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000433 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018001 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000461 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025342 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000523 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026259 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000461 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026180 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000505 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018850 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000461 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028421 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000553 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019957 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000518 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025413 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000708 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019241 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000396 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024864 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000406 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026401 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000399 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020113 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000505 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024586 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001038 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.006897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029130 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000468 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023427 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000430 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021063 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000436 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023193 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000465 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020654 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001375 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.006438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020462 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000775 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.005220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022876 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000507 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020758 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000396 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020384 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000657 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020842 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000494 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017102 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000410 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018027 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000527 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026597 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000486 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017722 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000491 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021630 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000590 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.005019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020203 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000547 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022942 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000723 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018829 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000396 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021140 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001254 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.006239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019741 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000392 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017760 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000421 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022350 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000414 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024369 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000840 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.006003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025176 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000427 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020508 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000583 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025180 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000585 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.005038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023889 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000378 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018973 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000955 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021660 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001548 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.006659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021749 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000437 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027528 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000378 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024078 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000592 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.005936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020933 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000545 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022180 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000408 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019841 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000494 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022711 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000389 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018871 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000417 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021112 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000503 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022755 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000452 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017704 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000396 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017454 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000435 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022179 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000530 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019854 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000472 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.004239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022641 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000411 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018521 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000461 seconds
+  ERROR: Build asset version error: assets/hero.cs in SourceAssetDB has modification time of '2021-05-23T10:30:06.923085Z' while content on disk has modification time of '2021-05-23T10:30:18.1680485Z'
+  Import took 0.003632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057759 seconds.
+  path: Assets/Hero.cs
+  artifactKey: Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero.cs using Guid(f71558d0578c3f54186943ac291e83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96c845daa686be9999dd15a1bbb8ec03') in 0.006550 seconds
+  Import took 0.010714 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001757 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.118 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2330.
+Total: 6.077500 ms (FindLiveObjects: 0.488600 ms CreateObjectMapping: 0.059000 ms MarkObjects: 5.455100 ms  DeleteObjects: 0.070800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001723 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.814 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2334.
+Total: 2.686100 ms (FindLiveObjects: 0.456700 ms CreateObjectMapping: 0.050100 ms MarkObjects: 2.153500 ms  DeleteObjects: 0.024000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001955 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.013 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2338.
+Total: 2.665400 ms (FindLiveObjects: 0.313300 ms CreateObjectMapping: 0.053700 ms MarkObjects: 2.272000 ms  DeleteObjects: 0.024800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002126 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.957 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2342.
+Total: 3.012600 ms (FindLiveObjects: 0.294800 ms CreateObjectMapping: 0.046900 ms MarkObjects: 2.630300 ms  DeleteObjects: 0.038500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001540 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.831 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2346.
+Total: 2.028300 ms (FindLiveObjects: 0.283700 ms CreateObjectMapping: 0.089200 ms MarkObjects: 1.627400 ms  DeleteObjects: 0.026800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001893 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.827 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2350.
+Total: 2.533600 ms (FindLiveObjects: 0.350400 ms CreateObjectMapping: 0.062900 ms MarkObjects: 2.097500 ms  DeleteObjects: 0.021100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001514 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.828 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2354.
+Total: 2.469500 ms (FindLiveObjects: 0.356300 ms CreateObjectMapping: 0.115400 ms MarkObjects: 1.970900 ms  DeleteObjects: 0.025400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001718 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.857 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2358.
+Total: 2.258300 ms (FindLiveObjects: 0.321100 ms CreateObjectMapping: 0.064700 ms MarkObjects: 1.842200 ms  DeleteObjects: 0.028400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001638 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.825 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2362.
+Total: 2.135900 ms (FindLiveObjects: 0.282800 ms CreateObjectMapping: 0.048700 ms MarkObjects: 1.783400 ms  DeleteObjects: 0.020000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001534 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.841 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2366.
+Total: 2.220500 ms (FindLiveObjects: 0.374700 ms CreateObjectMapping: 0.087500 ms MarkObjects: 1.732400 ms  DeleteObjects: 0.024500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
